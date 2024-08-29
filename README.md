@@ -2,17 +2,22 @@
 
 This project is a Stock Portfolio Management application that calculates annualized returns for a portfolio of stock trades. The application fetches historical stock prices and calculates the annualized returns based on the purchase and end dates.
 
-## Table of Contents
+--------------------------------------------------------------------
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+## Display Result
+
+ ### 1. Anand 
+![Anand](https://github.com/yogeshrathee/QMoney-portfolio/blob/cfa1cf76209a2de399d301b4ccd3a641b4481319/output/anand.jpg)
+
+ ### 2. Suresh 
+![Suresh](https://github.com/yogeshrathee/QMoney-portfolio/blob/cfa1cf76209a2de399d301b4ccd3a641b4481319/output/Suresh.jpg)
+
+ ### 3. Faster Fene
+![Faster Fene](https://github.com/yogeshrathee/QMoney-portfolio/blob/cfa1cf76209a2de399d301b4ccd3a641b4481319/output/Faster%20Fene.jpg)
+
+
+-----------------------------------------------------------------
+
 
 ## Overview
 
