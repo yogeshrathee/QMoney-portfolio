@@ -2,6 +2,11 @@
 
 This project is a Stock Portfolio Management application that calculates annualized returns for a portfolio of stock trades. The application fetches historical stock prices and calculates the annualized returns based on the purchase and end dates.
 
+## Walkthrough Video
+
+### For a comprehensive overview of the project execution, please watch the full walkthrough on YouTube:
+[![Project Execution Demo](https://img.youtube.com/vi/S6BbBLUNNqA/0.jpg)](https://youtu.be/S6BbBLUNNqA?si=kfXUR2wbi3tLKAVX)
+
 --------------------------------------------------------------------
 
 ## Display Result
